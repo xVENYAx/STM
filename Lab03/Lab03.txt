@@ -1,0 +1,60 @@
+Configuration	Lab03
+STM32CubeMX 	6.4.0
+Date	02/17/2022
+MCU	STM32F103C6Tx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+SYS	No Debug	SYS_VS_ND	VP_SYS_VS_ND
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+30	PA9	GPIO_EXTI9	
+31	PA10	GPIO_Output	
+32	PA11	GPIO_Output	
+33	PA12	GPIO_Output	
+34	PA13	GPIO_Output	
+37	PA14	GPIO_EXTI14	
+PERIPHERALS	MODES	FUNCTIONS	PINS
+SYS	No Debug	SYS_VS_ND	VP_SYS_VS_ND
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+30	PA9	GPIO_EXTI9	
+31	PA10	GPIO_Output	
+32	PA11	GPIO_Output	
+33	PA12	GPIO_Output	
+34	PA13	GPIO_Output	
+37	PA14	GPIO_EXTI14	
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : Lab03
+Project Folder : C:\Users\t3t3t\STM32CubeIDE\workspace_1.8.0\Lab03
+Toolchain / IDE : STM32CubeIDE
+Firmware Package Name and Version : STM32Cube FW_F1 V1.8.4
+
+
+Code Generation Settings : 
+STM32Cube MCU packages and embedded software packs : Copy only the necessary library files
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : Yes
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : 
+
+
+
+
+
